@@ -17,3 +17,5 @@ A1=6500;
 Kp=((A2)/48.85) - 1
 Ti=(48.85*Kp)/(A1)
 Td=((A3)-9.09)/(48.85*Kp)
+
+%hace falta incluir nuevas lineas para tales y tales
